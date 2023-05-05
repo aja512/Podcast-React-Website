@@ -1,12 +1,10 @@
-# TÖAL Podcast Organization Website
+# Podcast Organization Website
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2450602c-4395-4e20-b7b7-4f7affd7f9e2/deploy-status)](https://app.netlify.com/sites/toalpodcast/deploys)
 
-Welcome to the official website of Tuğba Özbek Anadolu Lisesi Podcast Organization! This website is designed to provide information about our podcast organization, including our latest episodes, team members, and more.
+Welcome to the official website of Podcast Organization! This website is designed to provide information about our podcast organization, including our latest episodes, team members, and more.
 
 ## Table of Contents
-
-- [TÖAL Podcast Organization Website](#töal-podcast-organization-website)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Installation](#installation)
