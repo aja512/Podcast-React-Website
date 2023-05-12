@@ -22,15 +22,15 @@ This website includes the following features:
 - About us: This section provides information about our podcast organization, including our mission and values.
 - Contact us: Users can contact us through a contact form available on the website.
 
-## Installation
+<!-- ## Installation
 
 To install this website, follow these steps:
 
-1. Clone this repository: `$ git clone https://github.com/DrShahinstein/toalpodcast.git`
+1. Clone this repository: 
 2. Install the necessary dependencies: `$ yarn`
 3. Start the server: `$ yarn start`
-
-### Server-Side
+ -->
+<!-- ### Server-Side
 
 Source-code of this website's server-side written in Django is [here](https://github.com/reo6/vertical-backend)
 
@@ -51,3 +51,4 @@ We welcome contributions from anyone who is interested in improving our podcast 
 ## License
 
 This project is licensed under the GNU General Public License. See the [LICENSE](LICENSE) file for details.
+ -->
