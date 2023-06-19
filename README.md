@@ -22,7 +22,7 @@ This website includes the following features:
 - About us: This section provides information about our podcast organization, including our mission and values.
 - Contact us: Users can contact us through a contact form available on the website.
 
-![]()
+![Podcast Vector](https://github.com/aja512/Podcast-React-Website/blob/master/podcast%20image.webp)
 <!-- ## Installation
 
 To install this website, follow these steps:
